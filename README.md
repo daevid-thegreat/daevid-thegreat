@@ -34,7 +34,7 @@
 <a href="https://instagram.com/daevid_thegreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daevid_thegreat" height="30" width="40" /></a>
 <a href="https://hashnode.com/@daevidthegreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@daevidthegreat" height="30" width="40" /></a>
 <a href="https://medium.com/@daevidthegreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daevidthegreat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/daevid the great" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daevid the great" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/daevid the great](https://studio.youtube.com/channel/UCXuQz_9AINoTHLbds-u3xSA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="daevid the great" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
