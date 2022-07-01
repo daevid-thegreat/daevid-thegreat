@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/daevid_thegreat" target="blank"><img src="https://img.shields.io/twitter/follow/daevid_thegreat?logo=twitter&style=for-the-badge" alt="daevid_thegreat" /></a> </p>
 
-- 🔭 I’m currently working on [Realtinic](www.realtinic.com)
+- 🔭 I’m currently working on [Realtinic](http://www.realtinic.com)
 
 - 🌱 I’m currently learning **Flask, APIs, Postgres, MongoDB and MySQL**
 
-- 👨‍💻 All of my projects are available at [daevidthegreat.works](daevidthegreat.works)
+- 👨‍💻 All of my projects are available at [daevidthegreat.works](https://daevidthegreat.works)
 
 - 📝 I regularly write articles on [Tech, Code, and Finance](Tech, Code, and Finance)
 
