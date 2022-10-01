@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Makinde David</h1>
 <h3 align="center">An exceptional software developer from Nigeria</h3>
-https://api.daily.dev/devcards/ef92698818f94f20adc9212824bfa51e.png?r=sed
+<a href="https://app.daily.dev/daevid_thegreat"><img src="https://api.daily.dev/devcards/ef92698818f94f20adc9212824bfa51e.png?r=uqo" width="400" alt="David Makinde's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daevid-thegreat&label=Profile%20views&color=0e75b6&style=flat" alt="daevid-thegreat" /> </p>
 
