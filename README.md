@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name](https://yourwebsite.com/) 👋
+# Hi there, I'm [David Makinde](https://daevidthegreat.com/) 👋
 
-I'm a software engineer who enjoys building useful and innovative software solutions. Currently, I'm working on [a project](https://yourproject.com/) that aims to simplify the process of building web applications.
+I'm a software engineer who enjoys building useful and innovative software solutions. Currently, I'm working on [Realtinic](https://realtinic.com/) a prop-tech that aims to simplify the process of managing home rents and tenants.
 
 ## 🔭 My current projects
 
@@ -10,9 +10,10 @@ I'm a software engineer who enjoys building useful and innovative software solut
 
 ## 🌱 I'm currently learning
 
-- Machine learning and deep learning techniques
-- Cloud computing platforms such as AWS and GCP
-- Advanced algorithms and data structures
+- Dart-Flutter
+- MERN stack
+- DevOps
+- Data Structures and Algorithm
 
 ## 💬 Ask me about
 
@@ -22,28 +23,35 @@ I'm a software engineer who enjoys building useful and innovative software solut
 
 ## 📫 How to reach me
 
-- [Email](mailto:youremail@email.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourusername)
+- [Email](mailto:daevidthegreat@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/daevidthegreat)
+- [Twitter](https://twitter.com/daevid_thegreat)
 
 ## 🧰 Tools and technologies
 
-- Programming languages: Python, Java, JavaScript, TypeScript
-- Web frameworks: Flask, Django, React, Angular
-- Databases: MySQL, PostgreSQL, MongoDB, Redis
+- Programming languages: Python, JavaScript, Dart, TypeScript, Golang
+- Web frameworks: Django, FastAPI, ReactJS, ExpressJS, NextJS
+- Databases: MySQL, PostgreSQL, MongoDB, SQlite3
 - Cloud platforms: AWS, GCP, Heroku
 - Other tools: Git, Docker, Kubernetes
 
 ## 🌟 GitHub stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=daevid-thegreat&show_icons=true)
 
 ## 🏆 GitHub trophies
 
-![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=daevid-thegreat)
 
 ## 🎧 Currently listening to
 
-[![Spotify](https://novatorem-ten.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem-ten.vercel.app/api/spotify)](https://open.spotify.com/user/5k85eo7c2wzdnen5bhd0reoeq)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daevid-thegreat&show_icons=true&locale=en&layout=compact" alt="daevid-thegreat" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daevid-thegreat&show_icons=true&locale=en" alt="daevid-thegreat" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daevid-thegreat&" alt="daevid-thegreat" /></p>
 
 Thanks for stopping by!
