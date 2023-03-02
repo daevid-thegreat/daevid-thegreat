@@ -43,15 +43,10 @@ I'm a software engineer who enjoys building useful and innovative software solut
 
 ![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=daevid-thegreat)
 
-## 🎧 Currently listening to
-
-[![Spotify](https://novatorem-ten.vercel.app/api/spotify)](https://open.spotify.com/user/5k85eo7c2wzdnen5bhd0reoeq)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daevid-thegreat&show_icons=true&locale=en&layout=compact" alt="daevid-thegreat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daevid-thegreat&show_icons=true&locale=en" alt="daevid-thegreat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daevid-thegreat&" alt="daevid-thegreat" /></p>
 
 Thanks for stopping by!
