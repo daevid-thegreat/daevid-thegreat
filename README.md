@@ -2,12 +2,6 @@
 
 I'm a software engineer who enjoys building useful and innovative software solutions. Currently, I'm working on [Realtinic](https://realtinic.com/) a prop-tech that aims to simplify the process of managing home rents and tenants.
 
-## 🔭 My current projects
-
-- [Project A](https://projecta.com): A mobile app for tracking daily expenses
-- [Project B](https://projectb.com): A web-based platform for managing team tasks
-- [Project C](https://projectc.com): A machine learning model for predicting stock prices
-
 ## 🌱 I'm currently learning
 
 - Dart-Flutter
@@ -19,18 +13,17 @@ I'm a software engineer who enjoys building useful and innovative software solut
 
 - My experience with different programming languages and frameworks
 - Tips for building scalable and maintainable software
-- Strategies for debugging complex software issues
 
 ## 📫 How to reach me
 
-- [Email](mailto:daevidthegreat@gmail.com)
+- [Email](mailto:hello@daevidthegreat.com)
 - [LinkedIn](https://www.linkedin.com/in/daevidthegreat)
 - [Twitter](https://twitter.com/daevid_thegreat)
 
 ## 🧰 Tools and technologies
 
 - Programming languages: Python, JavaScript, Dart, TypeScript, Golang
-- Web frameworks: Django, FastAPI, ReactJS, ExpressJS, NextJS
+- Web frameworks: Django, FastAPI, ReactJS, ExpressJS, NextJS, NodeJS
 - Databases: MySQL, PostgreSQL, MongoDB, SQlite3
 - Cloud platforms: AWS, GCP, Heroku
 - Other tools: Git, Docker, Kubernetes
