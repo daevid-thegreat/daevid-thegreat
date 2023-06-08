@@ -1,4 +1,4 @@
-# Hi there, I'm [David Makinde](https://daevidthegreat.com/) 👋
+# Hi there, I'm [David Makinde](https://daevidthegreat.com/) 🙌🏿
 
 I'm a software engineer who enjoys building useful and innovative software solutions. Currently, I'm working on [Realtinic](https://realtinic.com/) a prop-tech that aims to simplify the process of managing home rents and tenants.
 
@@ -23,7 +23,7 @@ I'm a software engineer who enjoys building useful and innovative software solut
 ## 🧰 Tools and technologies
 
 - Programming languages: Python, JavaScript, Dart, TypeScript, Golang
-- Web frameworks: Django, FastAPI, ReactJS, ExpressJS, NextJS, NodeJS
+- Web frameworks: Django, FastAPI, Flask, ReactJS, ExpressJS, NextJS, NodeJS
 - Databases: MySQL, PostgreSQL, MongoDB, SQlite3
 - Cloud platforms: AWS, GCP, Heroku
 - Other tools: Git, Docker, Kubernetes
