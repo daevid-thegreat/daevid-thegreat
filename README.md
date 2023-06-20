@@ -1,10 +1,9 @@
 # Hi there, I'm [David Makinde](https://daevidthegreat.com/) 🙌🏿
 
-I'm a software engineer who enjoys building useful and innovative software solutions. Currently, I'm working on [Realtinic](https://realtinic.com/) a prop-tech that aims to simplify the process of managing home rents and tenants.
+I'm a software engineer who enjoys building useful and innovative software solutions. Currently, I'm working on Realtinic, a prop-tech that aims to simplify the process of managing home rents and tenants.
 
 ## 🌱 I'm currently learning
 
-- Dart-Flutter
 - MERN stack
 - DevOps
 - Data Structures and Algorithm
