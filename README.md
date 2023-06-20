@@ -31,12 +31,13 @@ I'm a software engineer who enjoys building useful and innovative software solut
 ## 🌟 GitHub stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=daevid-thegreat&show_icons=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daevid-thegreat&show_icons=true&locale=en&layout=compact" alt="daevid-thegreat" /></p>
 
 ## 🏆 GitHub trophies
 
 ![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=daevid-thegreat)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daevid-thegreat&show_icons=true&locale=en&layout=compact" alt="daevid-thegreat" /></p>
+
 
 Thanks for stopping by!
