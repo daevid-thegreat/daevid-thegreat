@@ -39,7 +39,4 @@ I'm a software engineer who enjoys building useful and innovative software solut
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daevid-thegreat&show_icons=true&locale=en&layout=compact" alt="daevid-thegreat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daevid-thegreat&show_icons=true&locale=en" alt="daevid-thegreat" /></p>
-
-
 Thanks for stopping by!
