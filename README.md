@@ -21,8 +21,8 @@ I'm a software engineer who enjoys building useful and innovative software solut
 
 ## 🧰 Tools and technologies
 
-- Programming languages: Python, JavaScript, Dart, TypeScript, Golang
-- Web frameworks: Django, FastAPI, Flask, ReactJS, ExpressJS, NextJS, NodeJS
+- Programming languages: Python, JavaScript, TypeScript, Golang
+- Web frameworks: Django, Flask, ReactJS, ExpressJS, NextJS, NodeJS
 - Databases: MySQL, PostgreSQL, MongoDB, SQlite3
 - Cloud platforms: AWS, GCP, Heroku
 - Other tools: Git, Docker, Kubernetes
