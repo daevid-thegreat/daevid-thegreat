@@ -1,17 +1,6 @@
 # Hi there, I'm [David Makinde](https://daevidthegreat.com/) 🙌🏿
 
-I'm a software engineer who enjoys building useful and innovative software solutions. Currently, I'm working on Realtinic, a prop-tech that aims to simplify the process of managing home rents and tenants.
-
-## 🌱 I'm currently learning
-
-- MERN stack
-- DevOps
-- Data Structures and Algorithm
-
-## 💬 Ask me about
-
-- My experience with different programming languages and frameworks
-- Tips for building scalable and maintainable software
+I'm a software engineer who enjoys building useful and innovative software solutions.
 
 ## 📫 How to reach me
 
@@ -35,8 +24,3 @@ I'm a software engineer who enjoys building useful and innovative software solut
 ## 🏆 GitHub trophies
 
 ![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=daevid-thegreat)
-
-
-
-
-Thanks for stopping by!
