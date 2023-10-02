@@ -2,12 +2,6 @@
 
 I'm a software engineer who enjoys building useful and innovative software solutions.
 
-## 📫 How to reach me
-
-- [Email](mailto:hello@daevidthegreat.com)
-- [LinkedIn](https://www.linkedin.com/in/daevidthegreat)
-- [Twitter](https://twitter.com/daevid_thegreat)
-
 ## 🧰 Tools and technologies
 
 - Programming languages: Python, JavaScript, TypeScript, Golang
