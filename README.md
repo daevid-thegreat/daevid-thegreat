@@ -6,11 +6,17 @@ I'm a software engineer who enjoys building useful and innovative software solut
 
 ## 🧰 Tools and technologies
 
-- Programming languages: Python, JavaScript, TypeScript, Golang
-- Web frameworks: Django, Flask, ReactJS, ExpressJS, NextJS, NodeJS
+- Programming languages: Python, JavaScript, TypeScript, Golang and Java.
+- Web frameworks: Django, Flask, ReactJS, ExpressJS, NextJS, NodeJS, NestJS, Gin, Mux and Spring Boot.
 - Databases: MySQL, PostgreSQL, MongoDB, SQlite3
 - Cloud platforms: AWS, GCP, Heroku
 - Other tools: Git, Docker, Kubernetes
+
+![daevid-thegreat's Stats](https://github-readme-stats.vercel.app/api?username=daevid-thegreat&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+![daevid-thegreat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=daevid-thegreat&theme=dracula&hide_border=true)
+
+![daevid-thegreat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daevid-thegreat&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ## 🏆 GitHub trophies
 
