@@ -20,4 +20,5 @@ I'm a software engineer who enjoys building useful and innovative software solut
 
 ## 🏆 GitHub trophies
 
-![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=daevid-thegreat)
+![Your Name's GitHub trophies](https://github-profile-trophy.vercel.app/?username=daevid-thegreat&no-bg=true&theme=darkhub
+)
