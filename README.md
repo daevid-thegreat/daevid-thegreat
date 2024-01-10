@@ -1,6 +1,6 @@
 ![1500x500](https://github.com/daevid-thegreat/daevid-thegreat/assets/58576209/689c25bd-9e5f-4533-9e33-99240df6965c)
 
-Check my portfolio ![here!](https://daevidthegreat.com/)
+Check my portfolio [here!](https://daevidthegreat.com/)
 
 I'm a software engineer, I enjoy building useful and innovative software solutions.
 
