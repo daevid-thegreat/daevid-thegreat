@@ -2,7 +2,7 @@
 
 Check my portfolio [here!](https://daevidthegreat.com/)
 
-I'm a software engineer, I enjoy building useful and innovative software solutions.
+I'm a software engineer, I enjoy building innovative software solutions.
 
 [![wakatime](https://wakatime.com/badge/user/0a0482e4-c2d0-4a3f-bfc2-1f3dcc867842.svg)](https://wakatime.com/@0a0482e4-c2d0-4a3f-bfc2-1f3dcc867842)
 
