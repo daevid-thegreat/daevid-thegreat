@@ -8,7 +8,7 @@ I'm a software engineer, I enjoy building innovative software solutions.
 
 ## 🧰 Tools and technologies
 
-- Programming languages: Python, JavaScript, TypeScript, Golang.
+- Programming languages: Python, JavaScript, TypeScript, Golang and Java.
 - Web frameworks: Django, Flask, ReactJS, ExpressJS, NextJS, NodeJS, NestJS, Gin, Mux.
 - Databases: MySQL, PostgreSQL, MongoDB, SQlite3
 - Cloud platforms: AWS, GCP, Heroku
