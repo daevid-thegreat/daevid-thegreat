@@ -18,7 +18,7 @@ I'm a polyglot software engineer and I enjoy building innovative software soluti
 
 ![daevid-thegreat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=daevid-thegreat&theme=dracula&hide_border=true)
 
-![daevid-thegreat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daevid-thegreat&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![daevid-thegreat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daevid-thegreat&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile)
 
 ## 🏆 GitHub trophies
 
