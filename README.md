@@ -2,8 +2,6 @@
 
 Check my portfolio [here!](https://daevidthegreat.com/)
 
-I'm a polyglot software engineer and I enjoy building innovative software solutions.
-
 [![wakatime](https://wakatime.com/badge/user/0a0482e4-c2d0-4a3f-bfc2-1f3dcc867842.svg)](https://wakatime.com/@0a0482e4-c2d0-4a3f-bfc2-1f3dcc867842)
 
 ## 🧰 Tools and technologies
@@ -18,7 +16,7 @@ I'm a polyglot software engineer and I enjoy building innovative software soluti
 
 ![daevid-thegreat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=daevid-thegreat&theme=dracula&hide_border=true)
 
-![daevid-thegreat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daevid-thegreat&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,ejs,procfile)
+![daevid-thegreat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daevid-thegreat&theme=dracula&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=css,html,dockerfile,ejs,procfile&show_icons=true)
 
 ## 🏆 GitHub trophies
 
