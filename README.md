@@ -7,7 +7,7 @@ Check my portfolio [here!](https://daevidthegreat.com/)
 ## 🧰 Tools and technologies
 
 - Programming languages: Python, JavaScript, TypeScript, Golang and Java.
-- Web frameworks: Django, Flask, ReactJS, ExpressJS, NextJS, NodeJS, NestJS, Gin, Mux.
+- Web frameworks: Django, Flask, ReactJS, ExpressJS, NextJS, NodeJS, NestJS, Gin, Mux and Springboot.
 - Databases: MySQL, PostgreSQL, MongoDB, SQlite3
 - Cloud platforms: AWS, GCP, Heroku
 - Other tools: Git, Docker, Kubernetes
