@@ -2,7 +2,7 @@
 
 Check my portfolio [here!](https://daevidthegreat.com/)
 
-[![wakatime](https://wakatime.com/badge/user/0a0482e4-c2d0-4a3f-bfc2-1f3dcc867842.svg)](https://wakatime.com/@0a0482e4-c2d0-4a3f-bfc2-1f3dcc867842)
+[![wakatime](https://wakatime.com/badge/user/0a0482e4-c2d0-4a3f-bfc2-1f3dcc867842.svg)](https://wakatime.com/@0a0482e4-c2d0-4a3f-bfc2-1f3dcc867842&color=yellow)
 ![](https://komarev.com/ghpvc/?username=daevid-thegreat&color=yellow)
 
 ## 🧰 Tools and technologies
